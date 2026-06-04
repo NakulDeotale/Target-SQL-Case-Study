@@ -30,8 +30,6 @@ reviews.csv
 orders.csv
 products.csv
 
-FeatureDescriptioncustomer_idID of the consumer who made the purchasecustomer_unique_idUnique ID of the consumercustomer_zip_code_prefixZip Code of consumer’s locationcustomer_cityName of the City from where order is madecustomer_stateState Code from where order is made (Eg. são paulo - SP)
-
 Time Period Covered
 September 2016 – October 2018
 
